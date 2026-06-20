@@ -1,4 +1,4 @@
-# 🚀 GitHub Profile README (`README.md`)
+#  GitHub Profile README (`README.md`)
 
 <div align="center">
 
