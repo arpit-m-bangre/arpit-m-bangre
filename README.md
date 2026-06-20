@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:58A6FF&height=220&section=header&text=Arpit%20Bangre&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20%7C%20Python%20Developer%20%7C%20Insight%20Hunter&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Real+Decisions;Python+%7C+SQL+%7C+Data+Visualization;Building+Clean%2C+Causal%2C+Curious+Analysis;Always+Learning%2C+Always+Shipping" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Real+Decisions;Python+%7C+SQL+%7C+Data+Visualization;Building+Clean%2C+Causal%2C+Curious+Analysis;Always+Learning%2C+Always+Shipping" />
 
 <br/>
 
@@ -61,14 +61,13 @@ me.say_hi()
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" title="Pandas"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" title="NumPy"/>
-<img src="https://jupyter.org/assets/homepage/main-logo.svg" width="42" title="Jupyter"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="0"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" title="Jupyter"/>
 <img src="https://www.vectorlogo.zone/logos/scipy/scipy-icon.svg" width="42" title="SciPy"/>
 
 **Visualization**
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="42" title="Matplotlib"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42" title="Seaborn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-plain.svg" width="42" title="Seaborn"/>
 
 **Tools & Platform**
 <br/>
@@ -83,7 +82,7 @@ me.say_hi()
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=arpit-m-bangre&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=arpit-m-bangre&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<img height="165" src="https://streak-stats.demolab.com/?user=arpit-m-bangre&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
 <br/>
 
