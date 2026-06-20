@@ -1,16 +1,80 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**arpit-m-bangre/arpit-m-bangre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Arpit Bangre
 
-Here are some ideas to get you started:
+### 📊 Data Analyst • 🐍 Python Developer • 🚀 Problem Solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Turning Data Into Insights
+
+---
+
+</div>
+
+## 🚀 About Me
+
+* 🎓 Data Science enthusiast passionate about analytics and problem-solving.
+* 📈 Love transforming raw data into meaningful insights.
+* 🐍 Building projects using Python, SQL, and Data Analysis.
+* 📊 Interested in Data Visualization, EDA, and Machine Learning.
+* 🌱 Currently improving my skills in advanced analytics and predictive modeling.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Databases
+
+* 🐍 Python
+* 🗄️ SQL
+
+### Data Analysis
+
+* 📊 Pandas
+* 🔢 NumPy
+* 📈 Matplotlib
+
+### Tools
+
+* 📓 Jupyter Notebook
+* 🔧 Git
+* 💻 GitHub
+
+---
+
+## 📌 Featured Projects
+
+### 🚕 Causal Taxi Revenue Analysis
+
+Analyzed NYC taxi revenue using causal inference techniques.
+
+### 🎵 Spotify EDA Project
+
+Explored music trends, popularity, and user behavior.
+
+### 🖼️ NumPy Image Processing Engine
+
+Implemented image processing operations using NumPy.
+
+### 💻 Data CLI Engine
+
+Built a Python CLI tool for filtering and analyzing CSV data.
+
+---
+
+## 📈 GitHub Goals
+
+* 🚀 Build impactful data projects
+* 📊 Improve data visualization skills
+* 🤖 Learn machine learning techniques
+* 🌍 Contribute to open-source projects
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: linkedin.com/in/arpitmbangre
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+⭐ "Turning data into insights and ideas into solutions."
