@@ -7,7 +7,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+Into+Actionable+Insights;Python+%7C+SQL+%7C+Data+Analytics;Building+Clean+and+Insightful+Data+Stories;Always+Learning+%7C+Always+Building" />
 
 <br/>
-
+<a href="https://arpitbangre.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/arpitmbangre/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
