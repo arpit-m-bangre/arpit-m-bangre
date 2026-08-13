@@ -40,18 +40,11 @@ class Profile:
 
 ### Analytics
 
-<a href="https://github.com/arpit-m-bangre">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit-m-bangre&theme=dracula&hide_border=true&border_radius=0" alt="GitHub Streak" width="49%" />
-</a>
-<a href="https://github.com/arpit-m-bangre">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpit-m-bangre&show_icons=true&theme=dracula&hide_border=true&border_radius=0&hide=contribs" alt="GitHub Stats" width="49%" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arpit-m-bangre&theme=dracula&hide_border=true&border_radius=0)](https://github.com/arpit-m-bangre)
 
-<br/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpit-m-bangre&show_icons=true&theme=dracula&hide_border=true&border_radius=0&hide=contribs)](https://github.com/arpit-m-bangre)
 
-<a href="https://github.com/arpit-m-bangre">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-m-bangre&layout=compact&theme=dracula&hide_border=true&border_radius=0" alt="Top Languages" width="40%" />
-</a>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-m-bangre&layout=compact&theme=dracula&hide_border=true&border_radius=0)](https://github.com/arpit-m-bangre)
 
 </div>
 
