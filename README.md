@@ -42,9 +42,6 @@ class Profile:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=arpit-m-bangre&theme=dracula&hide_border=true&border_radius=0)](https://github.com/arpit-m-bangre)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpit-m-bangre&show_icons=true&theme=dracula&hide_border=true&border_radius=0&hide=contribs)](https://github.com/arpit-m-bangre)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-m-bangre&layout=compact&theme=dracula&hide_border=true&border_radius=0)](https://github.com/arpit-m-bangre)
 
 </div>
 
