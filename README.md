@@ -1,152 +1,128 @@
-```markdown
-# GitHub Profile README
+# Arpit Bangre — Data Engineering Portfolio
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:58A6FF&height=200&section=header&text=Arpit%20Bangre&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Database%20Architect%20%7C%20Analytics&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Data+Pipelines;Enterprise+SQL+%7C+Python+%7C+PySpark+%7C+ETL;Designing+Relational+Data+Warehouses;Always+Building+%7C+Always+Optimizing" />
-
-<br/><br/>
-
-<a href="https://arpitbangre.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/arpitmbangre/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:arpit.m.bangre@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/arpit-m-bangre">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=arpit-m-bangre&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
-
-</div>
+**Data Engineer in Training | SQL Architect | Python Developer**
 
 ---
 
-## Executive Summary
+## About
 
-```python
-class DataEngineer:
-    def __init__(self):
-        self.name = "Arpit Bangre"
-        self.role = "Data Engineer"
-        self.primary_stack = ["SQL", "Python", "PySpark", "Data Warehousing"]
-        self.core_competencies = [
-            "Data Pipeline Architecture",
-            "Relational Database Design",
-            "ETL Processing",
-            "Query Optimization"
-        ]
-        self.focus_areas = [
-            "Enterprise Data Warehousing",
-            "Distributed Computing",
-            "Pipeline Automation"
-        ]
-        self.mission = "Transform raw data streams into robust, production-grade analytical platforms."
+I am building a complete, production-grade Data Engineering skill set from the ground up.
 
-me = DataEngineer()
-```
+This repository documents my structured learning journey — from enterprise SQL architecture and relational database design through Python-based data pipelines, distributed computing with PySpark, cloud warehousing, and pipeline orchestration with Apache Airflow.
 
-* Data Engineer focused on designing scalable database architectures, ETL data pipelines, and analytical data marts.
-* Experienced in writing production SQL queries, database indexing, parent-child referential integrity, and query optimization.
-* Experienced in building end-to-end data pipelines using Python, SQL Server (SSMS), Pandas, and Git version control.
-* Actively advancing skills in distributed computing (PySpark), cloud warehousing (Snowflake/Redshift), and DAG orchestration (Apache Airflow).
+Every file in this repository represents real work: class notes, structured revision frameworks, 14-question practice sets per topic, faculty task solutions, and end-to-end Data Engineering project pipelines.
 
 ---
 
 ## Technical Stack
 
-### Languages & Databases
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-### Data Engineering & Big Data
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-58A6FF?style=for-the-badge&logo=databricks&logoColor=white)
-
-### Tools & Infrastructure
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+| Layer | Technologies |
+| :--- | :--- |
+| **Databases & Query Languages** | Microsoft SQL Server, T-SQL, PostgreSQL |
+| **Data Processing** | Python, Pandas, NumPy |
+| **Big Data** | PySpark, Delta Lake *(Upcoming)* |
+| **Cloud Warehousing** | Snowflake, AWS Redshift *(Upcoming)* |
+| **Orchestration** | Apache Airflow *(Upcoming)* |
+| **Version Control & Tools** | Git, GitHub, SSMS, VS Code |
 
 ---
 
-## Featured Repositories & Projects
+## Course Module Architecture
 
-| Project / Repository | Primary Tech Stack | Key Engineering Highlights |
-| :--- | :--- | :--- |
-| **[Data-Engineering-Master-Course](https://github.com/arpit-m-bangre/Data-Engineering-Master-Course)** | SQL Server • T-SQL • Data Engineering | Production relational warehouse architecture, constraint enforcement, 7-step revision frameworks, and 5 pipeline projects. |
-| **[Retail Supply Chain & Referential Integrity Pipeline](https://github.com/arpit-m-bangre/Data-Engineering-Master-Course/tree/main/01_SQL/06_PROJECTS)** | SQL • DDL / DML • Foreign Keys | 3-tier warehouse schema, parent-child referential integrity rules, and bottom-up teardown automation. |
-| **[Banking Transaction Audit & Fraud Detection System](https://github.com/arpit-m-bangre/Data-Engineering-Master-Course/tree/main/01_SQL/06_PROJECTS)** | SQL • Aggregations • HAVING | Transaction audit engine evaluating multi-condition thresholds and group filtering rules. |
-| **[HR Enterprise Payroll & Data Validation Engine](https://github.com/arpit-m-bangre/Data-Engineering-Master-Course/tree/main/01_SQL/06_PROJECTS)** | SQL • Constraints • Identity | System enforcing Primary Keys, Check constraints, Default values, and Identity auto-increment patterns. |
-
----
-
-## GitHub Performance Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arpit-m-bangre&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=arpit-m-bangre&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-m-bangre&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=arpit-m-bangre&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff"/>
-
-</div>
-
----
-
-## 2026 Technical Goals
-
-| Target Milestone | Category | Status |
-| :--- | :--- | :--- |
-| Enterprise SQL & Relational Architecture | Database Engineering | Completed / Continuous Refinement |
-| Advanced Data Engineering with Python | Data Processing | In Progress |
-| Distributed Computing with PySpark & Delta Lake | Big Data | Upcoming |
-| Cloud Data Warehousing (Snowflake / AWS Redshift) | Cloud Engineering | Upcoming |
-| Pipeline Orchestration with Apache Airflow | Workflow Engineering | Upcoming |
-
----
-
-## Professional Contact
-
-<div align="center">
-
-Open to Data Engineer, Database Developer, and Analytics Engineer roles and technical collaborations.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/arpitmbangre/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:arpit.m.bangre@gmail.com">
-  <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:2c5364,100:0f2027&height=100&section=footer"/>
-
-</div>
 ```
+Data-Engineering-Master-Course/
+│
+├── 00_SYLLABUS/               Master Curriculum & Learning Roadmap
+│
+├── 01_SQL/                    Enterprise SQL & Relational Architecture
+│   ├── 01_CLASS_NOTES/        Standardized class notes (UPPERCASE SQL keywords)
+│   ├── 02_DAILY_INDEX/        Daily topic index + Master Combined Index
+│   ├── 03_REVISION_NOTES/     7-Step Interactive Markdown revision notes
+│   ├── 04_CLASS_TASKS/        Faculty-assigned in-class task solutions
+│   ├── 05_INDEX_WISE_QUESTIONS/  14-question practice sets per session
+│   └── 06_PROJECTS/           Production-grade Data Engineering pipelines
+│
+├── 02_PYTHON/                 Python, OOP, Pandas & Data Cleansing (Upcoming)
+├── 03_ETL_DATA_PIPELINES/     ETL Architecture & Ingestion (Upcoming)
+├── 04_PYSPARK_BIG_DATA/       Distributed Computing & Delta Lake (Upcoming)
+├── 05_DATA_WAREHOUSING/       Snowflake, Redshift, Dimensional Models (Upcoming)
+├── 06_CLOUD_ENGINEERING/      AWS / Azure Data Services (Upcoming)
+├── 07_ORCHESTRATION/          Apache Airflow & DAG Scheduling (Upcoming)
+│
+└── LEARNING_DIARY/
+    └── LEARNING_DIARY.txt     Plain-text daily progress log
+```
+
+---
+
+## Module 1: SQL — Completed Topics
+
+| Session | Date | Core Topics Covered |
+| :---: | :--- | :--- |
+| Day 1 | 03 Aug 2026 | DDL vs DML vs DQL, CREATE TABLE, Data Types, SELECT, INSERT INTO, Column Aliasing |
+| Day 2 | 04 Aug 2026 | WHERE Clause, Relational Operators, IN, BETWEEN, IS NULL, LIKE Wildcards, AND / OR |
+| Day 3 | 05 Aug 2026 | NOT BETWEEN, NOT LIKE, Alphanumeric String Filtering, Vowel Pattern Detection |
+| Day 4 | 06 Aug 2026 | Arithmetic Expressions, Computed Columns, UPDATE, DELETE, DROP, DBA Permissions |
+| Day 5 | 07 Aug 2026 | DELETE vs TRUNCATE vs DROP, ALTER TABLE (ADD / DROP / ALTER), sp_rename |
+| Day 6 | 08 Aug 2026 | Aggregate Functions (MIN, MAX, SUM, AVG, COUNT), DISTINCT, TOP N, GROUP BY |
+| Day 7 | 10 Aug 2026 | Clause Execution Order (FROM→WHERE→GROUP BY→HAVING→SELECT→ORDER BY), HAVING |
+| Day 8 | 11 Aug 2026 | Complex Scenario-Based Queries, Multi-Condition Filtering, Logic Debugging |
+| Day 9 | 12 Aug 2026 | Constraints: PRIMARY KEY, UNIQUE, NOT NULL, CHECK, Constraint Error Tracing |
+| Day 10 | 13 Aug 2026 | DEFAULT Constraint, IDENTITY Auto-Increment, 10 Insertion Patterns, IDENTITY_INSERT |
+| Day 11 | 14 Aug 2026 | FOREIGN KEY, Parent vs Child Tables, Referential Integrity, Destruction Rules |
+
+---
+
+## Data Engineering Projects — SQL Module
+
+| Project | Milestone Topics | Status |
+| :--- | :--- | :---: |
+| `PROJECT1.SQL` — E-Commerce Sales & Customer Analytics | Days 1–4: DDL, DML, Filtering, Arithmetic | Done |
+| `PROJECT2.SQL` — Healthcare Hospital Admissions & Billing | Days 1–6: ALTER TABLE, Aggregates, DISTINCT | Done |
+| `PROJECT3.SQL` — Banking Transaction Audit & Fraud Detection | Days 1–8: GROUP BY, HAVING, Clause Sequence | Done |
+| `PROJECT4.SQL` — HR Enterprise Payroll & Data Validation | Days 1–10: Constraints, IDENTITY, DEFAULT | Done |
+| `PROJECT5.SQL` — Retail Supply Chain & Referential Integrity | Days 1–11: FOREIGN KEY, Multi-Tier Schema | Done |
+
+---
+
+## Learning Methodology
+
+Every topic follows a strict 3-stage mastery sequence before moving forward:
+
+```
+Stage 1 — Revision Note (.md)
+  Read the 7-step interactive revision note for the session.
+  Covers: Quick Recall → Concept Understanding → Syntax Examples
+          → Previous Day Connections → Common Mistakes → Real-World Scenario → Mini Assessment
+
+Stage 2 — Practice Questions (.SQL)
+  Solve all 14 questions independently in SSMS.
+  Structure: Syntax Drills → Spaced Revision → Business Scenarios → Logic & Debugging
+
+Stage 3 — Project Pipeline (.SQL)
+  Apply all milestone concepts into a production-grade multi-table Data Engineering pipeline.
+```
+
+---
+
+## Daily Study Rules
+
+- Study Window: 11:00 AM to 10:15 PM
+- Strict Cutoff: No study after 10:15 PM
+- Live Class: Monday to Saturday, 9:00 PM to 10:15 PM
+- Learning Flow: Revision Note → Practice Questions → Project Pipeline
+
+---
+
+## Contact
+
+| Channel | Link |
+| :--- | :--- |
+| LinkedIn | [linkedin.com/in/arpitmbangre](https://www.linkedin.com/in/arpitmbangre/) |
+| Email | arpit.m.bangre@gmail.com |
+| GitHub | [github.com/arpit-m-bangre](https://github.com/arpit-m-bangre) |
+| Portfolio | [arpitbangre.vercel.app](https://arpitbangre.vercel.app/) |
+
+---
+
+> "Build the system. Trust the process. The results will follow."
