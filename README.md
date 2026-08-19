@@ -1,49 +1,35 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                        ARPIT BANGRE — GITHUB PROFILE README                 -->
-<!--                     Data Engineer | SQL Architect | Pipeline Builder         -->
+<!--                    ARPIT BANGRE — GITHUB PROFILE README                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:292e42,100:7c3aed&height=220&section=header&text=Hey%20there!%20I'm%20Arpit%20👋&fontSize=42&fontColor=e2e8f0&fontAlignY=30&desc=Data%20Engineer%20%7C%20SQL%20Architect%20%7C%20Pipeline%20Builder&descAlignY=52&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:292e42,100:7c3aed&height=220&section=header&text=Hey%20there!%20I'm%20Arpit%20%F0%9F%91%8B&fontSize=42&fontColor=e2e8f0&fontAlignY=30&desc=Data%20Engineer%20%7C%20SQL%20Architect%20%7C%20Pipeline%20Builder&descAlignY=52&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%" />
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                              TYPING SVG ANIMATION                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Transforming+Raw+Data+Into+Scalable+Pipelines+%F0%9F%9A%80;Building+Enterprise+SQL+Architectures+Daily+%F0%9F%92%BB;200-Day+GitHub+Streak+Challenge+%E2%80%94+Day+6+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=650&height=30&lines=Transforming+Raw+Data+Into+Scalable+Pipelines+%F0%9F%9A%80;Building+Enterprise+SQL+Architectures+Daily+%F0%9F%92%BB;200-Day+GitHub+Streak+Challenge+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                             ABOUT ME SECTION                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
 ## 🧑‍💻 About Me
 
-*Digital Craftsman (Data Engineer / Pipeline Architect)*
+*Digital Craftsman — Data Engineer / Pipeline Architect*
 
-I am a **Data Engineering Trainee** with a relentless focus on mastering enterprise-grade SQL architectures, building scalable ETL pipelines, and engineering production-ready data warehouses. Currently on a mission to land a **25+ LPA Data Engineering role** at Tier-1 tech companies.
+I am a **Data Engineer** focused on mastering enterprise-grade SQL architectures, building scalable ETL pipelines, and engineering production-ready data warehouses. Currently on a mission to build real-world data systems — one commit at a time.
 
-- 🔭 Currently deep-diving into **Enterprise SQL, Relational Joins, Query Optimization & Indexing**
+- 🔭 Currently working on **Enterprise SQL, Relational Joins, Query Optimization & Indexing**
 - 🌱 Learning path: `SQL` → `Python` → `ETL Pipelines` → `PySpark` → `Data Warehousing` → `Cloud (AWS/Azure)` → `Apache Airflow`
-- 🎓 Enrolled in **Data Engineering Master Course (Online Batch 15)**
 - 🔥 On a **200-day GitHub commit streak challenge** — no breaks, no excuses
-- 🎯 Target: **Tier-1 Data Engineering roles** at companies in Pune / Bengaluru / Hyderabad
+- 🎯 Target: **Tier-1 Data Engineering roles** in India
 - 💡 Philosophy: *"Raw data in. Clean pipelines out. Zero tolerance for dirty data."*
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/arpitmbangre/)**
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                             TECH STACK SECTION                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 ## ⚡ Tech Arsenal
 
@@ -74,97 +60,15 @@ I am a **Data Engineering Trainee** with a relentless focus on mastering enterpr
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                        GITHUB STATS & STREAK SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=arpit-m-bangre&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=550&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&currStreakNum=e2e8f0&sideNums=e2e8f0&stroke=30363d&background=0d1117" alt="GitHub Streak" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=arpit-m-bangre&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=550&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&currStreakNum=e2e8f0&sideNums=e2e8f0&stroke=30363d&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpit-m-bangre&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&ring_color=a78bfa&include_all_commits=true&count_private=true" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-m-bangre&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&langs_count=6" height="170" />
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpit-m-bangre&bg_color=0d1117&color=a78bfa&line=7c3aed&point=e2e8f0&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="95%" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                         FEATURED PROJECT SECTION                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## 🏗️ Featured Project
-
-<div align="center">
-
-[![Data Engineering Master Course](https://github-readme-stats.vercel.app/api/pin/?username=arpit-m-bangre&repo=Data-Engineering-Master-Course&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0)](https://github.com/arpit-m-bangre/Data-Engineering-Master-Course)
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center"><b>📝 16</b><br/>Class Notes</td>
-<td align="center"><b>📘 16</b><br/>Revision Notes</td>
-<td align="center"><b>🧪 16</b><br/>Drill Sets</td>
-<td align="center"><b>📋 6</b><br/>Task Files</td>
-<td align="center"><b>🚀 5</b><br/>Enterprise Projects</td>
-<td align="center"><b>🧠 314</b><br/>Total Drills</td>
-</tr>
-</table>
-
-<div align="center">
-
-🌐 **Live Dashboard:** [arpitbangre.vercel.app](https://arpitbangre.vercel.app/)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                          CURRENT LEARNING ROADMAP                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## 🗺️ Learning Roadmap
-
-```
- ✅ SQL Foundations & DDL/DML                ████████████████████ 100%
- ✅ Clauses, Filtering & Pattern Matching    ████████████████████ 100%
- ✅ Aggregates, GROUP BY & HAVING            ████████████████████ 100%
- ✅ Constraints & Referential Integrity      ████████████████████ 100%
- ✅ Set Operators & Query Combination        ████████████████████ 100%
- ✅ Temporal Functions & Date Logic          ████████████████████ 100%
- 🔄 Relational Joins & Advanced Patterns     ████████████░░░░░░░░  60%
- ⬚  Subqueries, CTEs & Window Functions     ░░░░░░░░░░░░░░░░░░░░   0%
- ⬚  Python & OOP for Data Engineering       ░░░░░░░░░░░░░░░░░░░░   0%
- ⬚  ETL Pipelines & Data Integration        ░░░░░░░░░░░░░░░░░░░░   0%
- ⬚  PySpark & Distributed Computing         ░░░░░░░░░░░░░░░░░░░░   0%
- ⬚  Data Warehousing (Snowflake/Redshift)   ░░░░░░░░░░░░░░░░░░░░   0%
- ⬚  Cloud Engineering (AWS/Azure)           ░░░░░░░░░░░░░░░░░░░░   0%
- ⬚  Orchestration (Apache Airflow)          ░░░░░░░░░░░░░░░░░░░░   0%
-```
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                           PROFILE VIEWS & CONNECT                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -191,7 +95,3 @@ I am a **Data Engineering Trainee** with a relentless focus on mastering enterpr
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:292e42,100:7c3aed&height=120&section=footer" width="100%" />
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                         END OF PROFILE README                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
