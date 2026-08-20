@@ -65,12 +65,12 @@ I am a **Data Engineer** passionate about designing enterprise-grade database ar
 <div align="center">
 
 <!-- Futuristic Cyberpunk Streak Card (Synchronized with IST Timezone) -->
-<img src="https://streak-stats.demolab.com?user=arpit-m-bangre&theme=radical&background=0b0f19&ring=00f2fe&fire=00f2fe&currStreakNum=00f2fe&currStreakLabel=38ef7d&sideNums=00f2fe&sideLabels=8b949e&dates=8b949e&border=1f293d&timezone=Asia%2FKolkata&hide_border=false&border_radius=12" alt="GitHub Streak" width="95%" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=arpit-m-bangre&theme=radical&background=0b0f19&ring=00f2fe&fire=00f2fe&currStreakNum=00f2fe&currStreakLabel=38ef7d&sideNums=00f2fe&sideLabels=8b949e&dates=8b949e&border=1f293d&timezone=Asia%2FKolkata&hide_border=false&border_radius=12)](https://github.com/arpit-m-bangre)
 
 <br/><br/>
 
 <!-- Futuristic Interactive Activity Heatmap Graph (100% Uptime Guaranteed) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpit-m-bangre&theme=react-dark&bg_color=0b0f19&color=00f2fe&line=00f2fe&point=38ef7d&area=true&hide_border=false&border_color=1f293d&border_radius=12" alt="Engineering Activity Graph" width="95%" />
+[![Engineering Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arpit-m-bangre&theme=react-dark&bg_color=0b0f19&color=00f2fe&line=00f2fe&point=38ef7d&area=true&hide_border=false&border_color=1f293d&border_radius=12)](https://github.com/arpit-m-bangre)
 
 </div>
 
