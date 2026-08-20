@@ -4,13 +4,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:292e42,100:7c3aed&height=220&section=header&text=Hey%20there!%20I'm%20Arpit%20%F0%9F%91%8B&fontSize=42&fontColor=e2e8f0&fontAlignY=30&desc=Data%20Engineer%20%7C%20SQL%20Architect%20%7C%20Pipeline%20Builder&descAlignY=52&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,40:0052d4,70:4364f7,100:6fb1fc&height=220&section=header&text=Hey%20there!%20I'm%20Arpit%20%E2%9A%A1&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Data%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Cloud%20Data%20Architect&descAlignY=55&descSize=18&descColor=00f2fe&animation=fadeIn" width="100%" />
 
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=650&height=30&lines=Transforming+Raw+Data+Into+Scalable+Pipelines+%F0%9F%9A%80;Building+Enterprise+SQL+Architectures+Daily+%F0%9F%92%BB;200-Day+GitHub+Streak+Challenge+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=680&height=32&lines=Transforming+Raw+Data+Into+High-Throughput+Pipelines+%E2%9A%A1;Architecting+Enterprise+SQL+%26+Cloud+Warehouses+%F0%9F%9B%A1%EF%B8%8F;Engineering+Scalable+Data+Platforms+Daily+%F0%9F%9A%80;Building+Production-Ready+Data+Ecosystems+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,16 +18,15 @@
 
 ## 🧑‍💻 About Me
 
-*Digital Craftsman — Data Engineer / Pipeline Architect*
+*Systems Architect & Data Engineering Specialist*
 
-I am a **Data Engineer** focused on mastering enterprise-grade SQL architectures, building scalable ETL pipelines, and engineering production-ready data warehouses. Currently on a mission to build real-world data systems — one commit at a time.
+I am a **Data Engineer** passionate about designing enterprise-grade database architectures, distributed ETL/ELT data pipelines, and scalable cloud data warehouses. I focus on writing high-performance SQL, robust schema constraints, and reliable automated ingestion workflows.
 
-- 🔭 Currently working on **Enterprise SQL, Relational Joins, Query Optimization & Indexing**
-- 🌱 Learning path: `SQL` → `Python` → `ETL Pipelines` → `PySpark` → `Data Warehousing` → `Cloud (AWS/Azure)` → `Apache Airflow`
-- 🔥 On a **200-day GitHub commit streak challenge** — no breaks, no excuses
-- 🎯 Target: **Tier-1 Data Engineering roles** in India
-- 💡 Philosophy: *"Raw data in. Clean pipelines out. Zero tolerance for dirty data."*
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/arpitmbangre/)**
+- 🔭 **Current Focus:** Enterprise SQL Optimization, Relational Database Internals, and Scalable Schema Modeling
+- 🛠️ **Tech Trajectory:** `Enterprise SQL` ➔ `Python & Pandas` ➔ `ETL Pipelines` ➔ `PySpark & Big Data` ➔ `Snowflake & dbt` ➔ `Cloud (AWS/Azure)` ➔ `Airflow`
+- 🎯 **Engineering Goal:** Building mission-critical, low-latency data infrastructure for Tier-1 technology enterprises
+- 💡 **Core Principle:** *"Clean schemas, zero-loss pipelines, and mathematically verifiable data integrity."*
+- 📫 **Connect:** **[LinkedIn](https://www.linkedin.com/in/arpitmbangre/)**
 
 <br/>
 
@@ -40,17 +39,18 @@ I am a **Data Engineer** focused on mastering enterprise-grade SQL architectures
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🛠️ Languages & Frameworks
+#### 🛠️ Languages & Distributed Computing
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-#### ☁️ Cloud & Warehousing
+#### ☁️ Cloud, Warehousing & Transformation
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-#### 🔧 Tools & Orchestration
+#### 🔧 Engineering Tools & Orchestration
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -60,11 +60,19 @@ I am a **Data Engineer** focused on mastering enterprise-grade SQL architectures
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 Engineering Activity & Analytics
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=arpit-m-bangre&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=550&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&currStreakNum=e2e8f0&sideNums=e2e8f0&stroke=30363d&background=0d1117)](https://git.io/streak-stats)
+<!-- Futuristic Cyberpunk Streak Card (Synchronized with IST Timezone) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arpit-m-bangre&theme=radical&background=0b0f19&ring=00f2fe&fire=00f2fe&currStreakNum=00f2fe&currStreakLabel=38ef7d&sideNums=00f2fe&sideLabels=8b949e&dates=8b949e&border=1f293d&timezone=Asia%2FKolkata&hide_border=false&border_radius=12)](https://github.com/arpit-m-bangre)
+
+<br/>
+
+<!-- GitHub Stats & Top Languages Cards -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arpit-m-bangre&show_icons=true&theme=tokyonight&bg_color=0b0f19&title_color=00f2fe&icon_color=00f2fe&text_color=e2e8f0&border_color=1f293d&border_radius=12&hide_border=false" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arpit-m-bangre&layout=compact&theme=tokyonight&bg_color=0b0f19&title_color=00f2fe&text_color=e2e8f0&border_color=1f293d&border_radius=12&hide_border=false" alt="Top Languages" />
 
 </div>
 
@@ -72,7 +80,7 @@ I am a **Data Engineer** focused on mastering enterprise-grade SQL architectures
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=arpit-m-bangre&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=arpit-m-bangre&color=00f2fe&style=for-the-badge&label=SYSTEM+VISITS)
 
 </div>
 
@@ -83,7 +91,9 @@ I am a **Data Engineer** focused on mastering enterprise-grade SQL architectures
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitmbangre/)
+&nbsp;
 [![Portfolio](https://img.shields.io/badge/Live_Dashboard-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arpitbangre.vercel.app/)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpit-m-bangre)
 
 </div>
@@ -92,6 +102,7 @@ I am a **Data Engineer** focused on mastering enterprise-grade SQL architectures
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:292e42,100:7c3aed&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,40:0052d4,70:4364f7,100:6fb1fc&height=120&section=footer" width="100%" />
 
 </div>
+
