@@ -4,13 +4,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,40:0052d4,70:4364f7,100:6fb1fc&height=220&section=header&text=Hey%20there!%20I'm%20Arpit%20%E2%9A%A1&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Data%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Cloud%20Data%20Architect&descAlignY=55&descSize=18&descColor=00f2fe&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,40:0052d4,70:4364f7,100:6fb1fc&height=220&section=header&text=Hey%20there!%20I'm%20Arpit%20%E2%9A%A1&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Digital%20Craftsman%20%E2%80%94%20Data%20Engineer%20%2F%20Pipeline%20Architect&descAlignY=55&descSize=18&descColor=00f2fe&animation=fadeIn" width="100%" />
 
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=680&height=32&lines=Transforming+Raw+Data+Into+High-Throughput+Pipelines+%E2%9A%A1;Architecting+Enterprise+SQL+%26+Cloud+Warehouses+%F0%9F%9B%A1%EF%B8%8F;Engineering+Scalable+Data+Platforms+Daily+%F0%9F%9A%80;Building+Production-Ready+Data+Ecosystems+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=680&height=32&lines=Digital+Craftsman+%E2%80%94+Data+Engineer+%2F+Pipeline+Architect+%E2%9A%A1;Transforming+Raw+Data+Into+High-Throughput+Pipelines+%F0%9F%9A%80;Architecting+Enterprise+SQL+%26+Cloud+Warehouses+%F0%9F%9B%A1%EF%B8%8F;Building+Production-Ready+Data+Ecosystems+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-*Systems Architect & Data Engineering Specialist*
+*Digital Craftsman — Data Engineer / Pipeline Architect*
 
 I am a **Data Engineer** passionate about designing enterprise-grade database architectures, distributed ETL/ELT data pipelines, and scalable cloud data warehouses. I focus on writing high-performance SQL, robust schema constraints, and reliable automated ingestion workflows.
 
@@ -64,12 +64,12 @@ I am a **Data Engineer** passionate about designing enterprise-grade database ar
 
 <div align="center">
 
-<!-- Futuristic Cyberpunk Streak Card (Synchronized with IST Timezone) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=arpit-m-bangre&theme=radical&background=0b0f19&ring=00f2fe&fire=00f2fe&currStreakNum=00f2fe&currStreakLabel=38ef7d&sideNums=00f2fe&sideLabels=8b949e&dates=8b949e&border=1f293d&timezone=Asia%2FKolkata&hide_border=false&border_radius=12)](https://github.com/arpit-m-bangre)
+<!-- Verified 16-Day Streak Card (Aug 5 - Aug 20 IST) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=arpit-m-bangre&theme=radical&timezone=Asia/Kolkata)](https://github.com/arpit-m-bangre)
 
 <br/><br/>
 
-<!-- Futuristic Interactive Activity Heatmap Graph (100% Uptime Guaranteed) -->
+<!-- Interactive Activity Graph -->
 [![Engineering Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arpit-m-bangre&theme=react-dark&bg_color=0b0f19&color=00f2fe&line=00f2fe&point=38ef7d&area=true&hide_border=false&border_color=1f293d&border_radius=12)](https://github.com/arpit-m-bangre)
 
 </div>
