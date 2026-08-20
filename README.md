@@ -4,13 +4,24 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,40:0052d4,70:4364f7,100:6fb1fc&height=220&section=header&text=Hey%20there!%20I'm%20Arpit%20%E2%9A%A1&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Digital%20Craftsman%20%E2%80%94%20Data%20Engineer%20%2F%20Pipeline%20Architect&descAlignY=55&descSize=18&descColor=00f2fe&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b0f19,40:0d1b2a,70:1b263b,100:00f2fe&height=200&section=header&text=ARPIT%20BANGRE%20%E2%9A%A1&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Digital%20Craftsman%20%E2%80%94%20Data%20Engineer%20%2F%20Pipeline%20Architect&descAlignY=58&descSize=17&descColor=00f2fe&animation=fadeIn" width="100%" />
 
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=680&height=32&lines=Digital+Craftsman+%E2%80%94+Data+Engineer+%2F+Pipeline+Architect+%E2%9A%A1;Transforming+Raw+Data+Into+High-Throughput+Pipelines+%F0%9F%9A%80;Architecting+Enterprise+SQL+%26+Cloud+Warehouses+%F0%9F%9B%A1%EF%B8%8F;Building+Production-Ready+Data+Ecosystems+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=880&height=40&lines=Digital+Craftsman+%E2%80%94+Data+Engineer+%2F+Pipeline+Architect+%E2%9A%A1;Transforming+Raw+Data+Into+High-Throughput+Pipelines+%F0%9F%9A%80;Architecting+Enterprise+SQL+%26+Cloud+Warehouses+%F0%9F%9B%A1%EF%B8%8F;Building+Production-Ready+Data+Ecosystems+%F0%9F%92%BB)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 🚀 MISSION: DEEP-SPACE DATA PLATFORMS & DISTRIBUTED STREAMING ARCHITECTURES │
+│ 🛰️ ORBIT: PUNE, INDIA (IST)  │  📡 STATUS: 100% ONLINE & ENGINEERING DAILY   │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -64,12 +75,12 @@ I am a **Data Engineer** passionate about designing enterprise-grade database ar
 
 <div align="center">
 
-<!-- Verified 16-Day Streak Card (Aug 5 - Aug 20 IST) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=arpit-m-bangre&theme=radical&timezone=Asia/Kolkata)](https://github.com/arpit-m-bangre)
+<!-- Verified 16-Day Streak Card (Fast Edge CDN - Instant 0.4s Load - Aug 5 to Aug 20 IST) -->
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=arpit-m-bangre&theme=radical&timezone=Asia/Kolkata)](https://github.com/arpit-m-bangre)
 
 <br/><br/>
 
-<!-- Interactive Activity Graph -->
+<!-- Interactive Activity Heatmap Graph -->
 [![Engineering Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arpit-m-bangre&theme=react-dark&bg_color=0b0f19&color=00f2fe&line=00f2fe&point=38ef7d&area=true&hide_border=false&border_color=1f293d&border_radius=12)](https://github.com/arpit-m-bangre)
 
 </div>
@@ -100,7 +111,8 @@ I am a **Data Engineer** passionate about designing enterprise-grade database ar
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,40:0052d4,70:4364f7,100:6fb1fc&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b0f19,40:0d1b2a,70:1b263b,100:00f2fe&height=90&section=footer" width="100%" />
 
 </div>
+
 
