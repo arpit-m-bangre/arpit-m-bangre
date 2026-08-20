@@ -64,12 +64,12 @@ I am a **Data Engineer** passionate about designing enterprise-grade database ar
 
 <div align="center">
 
-<!-- Verified 16-Day Streak Card (Aug 5 - Aug 20 IST) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=arpit-m-bangre&theme=radical&timezone=Asia/Kolkata)](https://github.com/arpit-m-bangre)
+<!-- Verified 16-Day Streak Card (Fast Edge CDN - Instant 0.4s Load - Aug 5 to Aug 20 IST) -->
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=arpit-m-bangre&theme=radical&timezone=Asia/Kolkata)](https://github.com/arpit-m-bangre)
 
 <br/><br/>
 
-<!-- Interactive Activity Graph -->
+<!-- Interactive Activity Heatmap Graph -->
 [![Engineering Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arpit-m-bangre&theme=react-dark&bg_color=0b0f19&color=00f2fe&line=00f2fe&point=38ef7d&area=true&hide_border=false&border_color=1f293d&border_radius=12)](https://github.com/arpit-m-bangre)
 
 </div>
