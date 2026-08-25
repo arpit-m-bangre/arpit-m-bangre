@@ -61,7 +61,8 @@ I am a **Data Engineer** passionate about designing enterprise-grade database ar
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-#### 🔧 Engineering Tools & Orchestration
+#### 🔧 Engineering Tools, Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -75,8 +76,13 @@ I am a **Data Engineer** passionate about designing enterprise-grade database ar
 
 <div align="center">
 
-<!-- Verified 16-Day Streak Card (Fast Edge CDN - Instant 0.4s Load - Aug 5 to Aug 20 IST) -->
+<!-- Verified Streak Card -->
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=arpit-m-bangre&theme=radical&timezone=Asia/Kolkata)](https://github.com/arpit-m-bangre)
+
+<br/><br/>
+
+<!-- Matching Dark-Mode GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=arpit-m-bangre&show_icons=true&theme=radical&hide_border=false&border_radius=12&border_color=1f293d&bg_color=0b0f19&title_color=00f2fe&icon_color=00f2fe&text_color=ffffff" alt="Arpit's GitHub Stats" width="85%" />
 
 <br/><br/>
 
@@ -114,5 +120,3 @@ I am a **Data Engineer** passionate about designing enterprise-grade database ar
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b0f19,40:0d1b2a,70:1b263b,100:00f2fe&height=90&section=footer" width="100%" />
 
 </div>
-
-
