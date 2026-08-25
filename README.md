@@ -76,24 +76,10 @@ I am a **Data Engineer** passionate about designing enterprise-grade database ar
 
 <div align="center">
 
-<!-- Verified Streak Card -->
+<!-- Verified 21-Day Streak Card (Fast Edge CDN - 100% Uptime) -->
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=arpit-m-bangre&theme=radical&timezone=Asia/Kolkata)](https://github.com/arpit-m-bangre)
 
 <br/><br/>
-
-<!-- Matching Dark-Mode GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=arpit-m-bangre&show_icons=true&theme=radical&hide_border=false&border_radius=12&border_color=1f293d&bg_color=0b0f19&title_color=00f2fe&icon_color=00f2fe&text_color=ffffff" alt="Arpit's GitHub Stats" width="85%" />
-
-<br/><br/>
-
-<!-- Interactive Activity Heatmap Graph -->
-[![Engineering Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arpit-m-bangre&theme=react-dark&bg_color=0b0f19&color=00f2fe&line=00f2fe&point=38ef7d&area=true&hide_border=false&border_color=1f293d&border_radius=12)](https://github.com/arpit-m-bangre)
-
-</div>
-
-<br/>
-
-<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arpit-m-bangre&color=00f2fe&style=for-the-badge&label=SYSTEM+VISITS)
 
