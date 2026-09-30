@@ -33,8 +33,9 @@
 
 I am a **Data Engineer** passionate about designing enterprise-grade database architectures, distributed ETL/ELT data pipelines, and scalable cloud data warehouses. I focus on writing high-performance SQL, robust schema constraints, and reliable automated ingestion workflows.
 
-- 🔭 **Current Focus:** Enterprise SQL Optimization, Relational Database Internals, and Scalable Schema Modeling
-- 🛠️ **Tech Trajectory:** `Enterprise SQL` ➔ `Python & Pandas` ➔ `ETL Pipelines` ➔ `PySpark & Big Data` ➔ `Snowflake & dbt` ➔ `Cloud (AWS/Azure)` ➔ `Airflow`
+- 🔭 **Current Focus:** Snowflake Cloud Data Warehousing, Relational Query Internals & Scalable ETL Architecture
+- ⚡ **Active Milestone:** Sprint 04 — Snowflake Architecture, Dimensional Modeling & High-Throughput Relational Engines
+- 🛠️ **Tech Trajectory:** `Enterprise SQL` ➔ `Snowflake DWH` ➔ `Advanced Analytics` ➔ `ETL Pipelines` ➔ `Python & Pandas` ➔ `PySpark & Big Data` ➔ `Cloud (AWS/Azure)` ➔ `Airflow`
 - 🎯 **Engineering Goal:** Building mission-critical, low-latency data infrastructure for Tier-1 technology enterprises
 - 💡 **Core Principle:** *"Clean schemas, zero-loss pipelines, and mathematically verifiable data integrity."*
 - 📫 **Connect:** **[LinkedIn](https://www.linkedin.com/in/arpitmbangre/)**
@@ -76,7 +77,7 @@ I am a **Data Engineer** passionate about designing enterprise-grade database ar
 
 <div align="center">
 
-<!-- Verified 21-Day Streak Card (Fast Edge CDN - 100% Uptime) -->
+<!-- Verified 56+ Day Engineering Streak (Fast Edge CDN - 100% Uptime) -->
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=arpit-m-bangre&theme=radical&timezone=Asia/Kolkata)](https://github.com/arpit-m-bangre)
 
 <br/><br/>
