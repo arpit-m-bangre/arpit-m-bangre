@@ -3,4 +3,5 @@
 | Date | Day | Status |
 |------|-----|--------|
 | 2026-09-30 | Wednesday | Active (Day 1) |
+| 2026-10-01 | Thursday | Active (Day 2) |
 
