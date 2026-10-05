@@ -7,4 +7,5 @@
 | 2026-10-02 | Friday | Active (Day 3) |
 | 2026-10-03 | Saturday | Active (Day 4) |
 | 2026-10-04 | Sunday | Active (Day 5) |
+| 2026-10-05 | Monday | Active (Day 6) |
 
