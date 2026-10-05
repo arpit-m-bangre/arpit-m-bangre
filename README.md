@@ -1,6 +1,6 @@
-﻿<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
-<!--                    ARPIT BANGRE â€” GITHUB PROFILE README                     -->
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                    ARPIT BANGRE — GITHUB PROFILE README                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -17,52 +17,52 @@
 <div align="center">
 
 ```
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚ ðŸš€ MISSION: DEEP-SPACE DATA PLATFORMS & DISTRIBUTED STREAMING ARCHITECTURES â”‚
-â”‚ ðŸ›°ï¸ ORBIT: PUNE, INDIA (IST)  â”‚  ðŸ“¡ STATUS: 100% ONLINE & ENGINEERING DAILY   â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 🚀 MISSION: DEEP-SPACE DATA PLATFORMS & DISTRIBUTED STREAMING ARCHITECTURES │
+│ 🛰️ ORBIT: PUNE, INDIA (IST)  │  📡 STATUS: 100% ONLINE & ENGINEERING DAILY   │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 <br/>
 
-## ðŸ§‘â€ðŸ’» About Me
+## 🧑‍💻 About Me
 
-*Digital Craftsman â€” Data Engineer / Pipeline Architect*
+*Digital Craftsman — Data Engineer / Pipeline Architect*
 
 I am a **Data Engineer** passionate about designing enterprise-grade database architectures, distributed ETL/ELT data pipelines, and scalable cloud data warehouses. I focus on writing high-performance SQL, robust schema constraints, and reliable automated ingestion workflows.
 
-- ðŸ”­ **Current Focus:** Snowflake Cloud Data Warehousing, Relational Query Internals & Scalable ETL Architecture
-- âš¡ **Active Milestone:** Sprint 04 â€” Snowflake Architecture, Dimensional Modeling & High-Throughput Relational Engines
-- ðŸ› ï¸ **Tech Trajectory:** `Enterprise SQL` âž” `Snowflake DWH` âž” `Advanced Analytics` âž” `ETL Pipelines` âž” `Python & Pandas` âž” `PySpark & Big Data` âž” `Cloud (AWS/Azure)` âž” `Airflow`
-- ðŸŽ¯ **Engineering Goal:** Building mission-critical, low-latency data infrastructure for Tier-1 technology enterprises
-- ðŸ’¡ **Core Principle:** *"Clean schemas, zero-loss pipelines, and mathematically verifiable data integrity."*
-- ðŸ“« **Connect:** **[LinkedIn](https://www.linkedin.com/in/arpitmbangre/)**
+- 🔭 **Current Focus:** Snowflake Cloud Data Warehousing, Relational Query Internals & Scalable ETL Architecture
+- ⚡ **Active Milestone:** Sprint 04 — Snowflake Architecture, Dimensional Modeling & High-Throughput Relational Engines
+- 🛠️ **Tech Trajectory:** `Enterprise SQL` ➔ `Snowflake DWH` ➔ `Advanced Analytics` ➔ `ETL Pipelines` ➔ `Python & Pandas` ➔ `PySpark & Big Data` ➔ `Cloud (AWS/Azure)` ➔ `Airflow`
+- 🎯 **Engineering Goal:** Building mission-critical, low-latency data infrastructure for Tier-1 technology enterprises
+- 💡 **Core Principle:** *"Clean schemas, zero-loss pipelines, and mathematically verifiable data integrity."*
+- 📫 **Connect:** **[LinkedIn](https://www.linkedin.com/in/arpitmbangre/)**
 
 <br/>
 
-## âš¡ Tech Arsenal
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-#### ðŸ—„ï¸ Databases & Query Engines
+#### 🗄️ Databases & Query Engines
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### ðŸ› ï¸ Languages & Distributed Computing
+#### 🛠️ Languages & Distributed Computing
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-#### â˜ï¸ Cloud, Warehousing & Transformation
+#### ☁️ Cloud, Warehousing & Transformation
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-#### ðŸ”§ Engineering Tools, Containers & Orchestration
+#### 🔧 Engineering Tools, Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -73,11 +73,11 @@ I am a **Data Engineer** passionate about designing enterprise-grade database ar
 
 <br/>
 
-## ðŸ“Š Engineering Activity & Analytics
+## 📊 Engineering Activity & Analytics
 
 <div align="center">
 
-<!-- Verified 56+ Day Engineering Streak (Fast Edge CDN - 100% Uptime) -->
+<!-- Verified 62+ Day Engineering Streak (Fast Edge CDN - 100% Uptime) -->
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=arpit-m-bangre&theme=radical&timezone=Asia/Kolkata)](https://github.com/arpit-m-bangre)
 
 <br/><br/>
@@ -88,7 +88,7 @@ I am a **Data Engineer** passionate about designing enterprise-grade database ar
 
 <br/>
 
-## ðŸ¤ Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -107,9 +107,3 @@ I am a **Data Engineer** passionate about designing enterprise-grade database ar
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b0f19,40:0d1b2a,70:1b263b,100:00f2fe&height=90&section=footer" width="100%" />
 
 </div>
-
-
-
-
-
-
