@@ -1,6 +1,6 @@
-<!-- ========================================================= -->
+﻿<!-- ========================================================= -->
 
-<!--                    ARPIT BANGRE — GITHUB PROFILE          -->
+<!--                    ARPIT BANGRE â€” GITHUB PROFILE          -->
 
 <!-- ========================================================= -->
 
@@ -23,56 +23,56 @@
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  🚀 FOCUS   : DATA ENGINEERING • SQL • ETL • CLOUD                         │
-│  🛠️ BUILD   : DATA PIPELINES • DATA WAREHOUSES • AUTOMATION               │
-│  📍 BASE    : INDIA                                                         │
-│  ⚡ STATUS  : LEARNING • BUILDING • SHIPPING                                │
-└──────────────────────────────────────────────────────────────────────────────┘
+â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+â”‚  ðŸš€ FOCUS   : DATA ENGINEERING â€¢ SQL â€¢ ETL â€¢ CLOUD                         â”‚
+â”‚  ðŸ› ï¸ BUILD   : DATA PIPELINES â€¢ DATA WAREHOUSES â€¢ AUTOMATION               â”‚
+â”‚  ðŸ“ BASE    : INDIA                                                         â”‚
+â”‚  âš¡ STATUS  : LEARNING â€¢ BUILDING â€¢ SHIPPING                                â”‚
+â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
 ```
 
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+## ðŸ‘¨â€ðŸ’» About Me
 
 I am a **Data Engineer focused on building strong foundations in SQL, ETL, data warehousing, and cloud technologies**.
 
-I enjoy working with data from its raw form to a reliable, structured, and usable state — from database design and SQL transformations to ETL pipelines and warehouse architecture.
+I enjoy working with data from its raw form to a reliable, structured, and usable state â€” from database design and SQL transformations to ETL pipelines and warehouse architecture.
 
-* 🔭 **Currently Learning:** Snowflake, Data Warehousing, ETL & Advanced SQL
-* 🧠 **Core Focus:** SQL • ETL • Data Modeling • Data Warehousing
-* 🛠️ **Building Towards:** Python • PySpark • Airflow • Cloud Data Engineering
-* 📚 **Learning Philosophy:** Understand the fundamentals, build consistently, and improve through practical work
-* 🎯 **Career Goal:** Become a strong production-ready Data Engineer
-* 💡 **Engineering Principle:** *Clean data. Reliable pipelines. Consistent execution.*
+* ðŸ”­ **Currently Learning:** Snowflake, Data Warehousing, ETL & Advanced SQL
+* ðŸ§  **Core Focus:** SQL â€¢ ETL â€¢ Data Modeling â€¢ Data Warehousing
+* ðŸ› ï¸ **Building Towards:** Python â€¢ PySpark â€¢ Airflow â€¢ Cloud Data Engineering
+* ðŸ“š **Learning Philosophy:** Understand the fundamentals, build consistently, and improve through practical work
+* ðŸŽ¯ **Career Goal:** Become a strong production-ready Data Engineer
+* ðŸ’¡ **Engineering Principle:** *Clean data. Reliable pipelines. Consistent execution.*
 
 <br/>
 
-## ⚡ Tech Stack
+## âš¡ Tech Stack
 
 <div align="center">
 
-### 🗄️ Databases & SQL
+### ðŸ—„ï¸ Databases & SQL
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### 🛠️ Programming & Data Processing
+### ðŸ› ï¸ Programming & Data Processing
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
 
-### ☁️ Cloud & Data Warehousing
+### â˜ï¸ Cloud & Data Warehousing
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge\&logo=snowflake\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 
-### 🔧 Tools & Engineering
+### ðŸ”§ Tools & Engineering
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -84,7 +84,7 @@ I enjoy working with data from its raw form to a reliable, structured, and usabl
 
 <br/>
 
-## 📊 GitHub Activity
+## ðŸ“Š GitHub Activity
 
 <div align="center">
 
@@ -98,54 +98,54 @@ I enjoy working with data from its raw form to a reliable, structured, and usabl
 
 <br/>
 
-## 🚀 What I'm Working Towards
+## ðŸš€ What I'm Working Towards
 
 ```text
 SQL
- │
- ├── Advanced SQL
- │
- ├── Data Modeling
- │
- ▼
+ â”‚
+ â”œâ”€â”€ Advanced SQL
+ â”‚
+ â”œâ”€â”€ Data Modeling
+ â”‚
+ â–¼
 ETL / ELT
- │
- ├── Data Pipelines
- │
- ├── Data Quality
- │
- ▼
+ â”‚
+ â”œâ”€â”€ Data Pipelines
+ â”‚
+ â”œâ”€â”€ Data Quality
+ â”‚
+ â–¼
 Data Warehousing
- │
- ├── Snowflake
- │
- ├── Dimensional Modeling
- │
- ▼
+ â”‚
+ â”œâ”€â”€ Snowflake
+ â”‚
+ â”œâ”€â”€ Dimensional Modeling
+ â”‚
+ â–¼
 Python
- │
- ├── Pandas
- │
- ├── Automation
- │
- ▼
+ â”‚
+ â”œâ”€â”€ Pandas
+ â”‚
+ â”œâ”€â”€ Automation
+ â”‚
+ â–¼
 Big Data
- │
- ├── PySpark
- │
- ├── Distributed Processing
- │
- ▼
+ â”‚
+ â”œâ”€â”€ PySpark
+ â”‚
+ â”œâ”€â”€ Distributed Processing
+ â”‚
+ â–¼
 Cloud
- │
- ├── AWS / Azure
- │
- └── Production Data Engineering
+ â”‚
+ â”œâ”€â”€ AWS / Azure
+ â”‚
+ â””â”€â”€ Production Data Engineering
 ```
 
 <br/>
 
-## 📌 Current Learning Roadmap
+## ðŸ“Œ Current Learning Roadmap
 
 | Area             | Focus                                                            |
 | ---------------- | ---------------------------------------------------------------- |
@@ -160,11 +160,11 @@ Cloud
 
 <br/>
 
-## 🔨 Projects
+## ðŸ”¨ Projects
 
-> 🚧 Building practical Data Engineering projects and continuously improving them.
+> ðŸš§ Building practical Data Engineering projects and continuously improving them.
 
-### 📦 Data Engineering Projects
+### ðŸ“¦ Data Engineering Projects
 
 Projects will focus on:
 
@@ -179,27 +179,27 @@ Projects will focus on:
 
 <br/>
 
-## 🧠 Engineering Mindset
+## ðŸ§  Engineering Mindset
 
 ```text
-Learn → Build → Break → Debug → Improve → Repeat
+Learn â†’ Build â†’ Break â†’ Debug â†’ Improve â†’ Repeat
 ```
 
 I believe strong engineering comes from **consistent practice, understanding fundamentals, and building real systems** rather than simply collecting technologies.
 
 <br/>
 
-## 🤝 Let's Connect
+## ðŸ¤ Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/arpitmbangre/)
 
- 
+Â 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://arpitbangre.vercel.app/)
 
- 
+Â 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/arpit-m-bangre)
 
@@ -212,3 +212,4 @@ I believe strong engineering comes from **consistent practice, understanding fun
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b0f19,40:0d1b2a,70:1b263b,100:00f2fe&height=90&section=footer" width="100%" />
 
 </div>
+
