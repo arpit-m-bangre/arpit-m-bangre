@@ -10,4 +10,5 @@
 | 2026-10-05 | Monday | Active (Day 6) |
 | 2026-10-06 | Tuesday | Active (Day 7) |
 | 2026-10-07 | Wednesday | Active (Day 8) |
+| 2026-10-08 | Thursday | Active (Day 9) |
 
