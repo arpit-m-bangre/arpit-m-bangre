@@ -86,7 +86,7 @@ I enjoy working with data from its raw form to a reliable, structured, and usabl
 
 <div align="center">
 
-[![GitHub Streak](https://gitHub-readme-streak-stats-eight.vercel.app?user=arpit-m-bangre&theme=tokyonight&timezone=Asia%2FKolkata)](https://github.com/arpit-m-bangre)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=arpit-m-bangre&theme=tokyonight&timezone=Asia%2FKolkata)](https://github.com/arpit-m-bangre)
 
 <br/><br/>
 
