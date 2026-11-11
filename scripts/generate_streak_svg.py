@@ -437,7 +437,6 @@ def main() -> int:
 
     target_pages = [
         f"https://github.com/{USERNAME}",
-        f"https://github.com/{USERNAME}/Data-Engineering-Master-Course",
     ]
 
     if args.purge_only:
