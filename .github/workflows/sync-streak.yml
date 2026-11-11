@@ -1,0 +1,78 @@
+name: Dynamic GitHub Streak Monitor
+
+on:
+  schedule:
+    # Auto-sync every 30 minutes across all public/private contributions
+    - cron: '*/30 * * * *'
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-streak-data
+  cancel-in-progress: true
+
+jobs:
+  update-streak-svg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main (monitor scripts)
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate Live Streak SVGs from GitHub Calendar
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: arpit-m-bangre
+          GH_START_YEAR: '2024'
+        run: |
+          mkdir -p /tmp/streak-out
+          python scripts/generate_streak_svg.py --out-dir /tmp/streak-out
+
+      - name: Publish SVGs to isolated streak-data branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          REPO_URL="https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
+          rm -rf /tmp/streak-repo
+
+          if git ls-remote --exit-code --heads "$REPO_URL" streak-data >/dev/null 2>&1; then
+            git clone --depth 1 --branch streak-data "$REPO_URL" /tmp/streak-repo
+          else
+            git init -b streak-data /tmp/streak-repo
+            git -C /tmp/streak-repo remote add origin "$REPO_URL"
+          fi
+
+          cd /tmp/streak-repo
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          cp /tmp/streak-out/github-streak.svg ./github-streak.svg
+          cp /tmp/streak-out/github-streak-radical.svg ./github-streak-radical.svg
+          cp /tmp/streak-out/streak_stats.json ./streak_stats.json
+
+          git add github-streak.svg github-streak-radical.svg streak_stats.json
+          if git rev-parse --verify HEAD >/dev/null 2>&1; then
+            if git diff --cached --quiet; then
+              echo "No SVG changes detected."
+              exit 0
+            fi
+            git commit --amend -m "chore(monitor): live streak sync"
+            git push --force origin streak-data
+          else
+            git commit -m "chore(monitor): initialize live streak sync"
+            git push origin streak-data
+          fi
+
+      - name: Actively Purge GitHub Camo Cache
+        run: |
+          sleep 3
+          python scripts/generate_streak_svg.py --purge-only
